@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "VAS_Api.Controllers.VAS",
+    "Method": "DeleteFromRedisByKey",
+    "RelativePath": "api/VAS/DeleteFromRedisByKey",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "redisKey",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VAS_Api.Controllers.VAS",
+    "Method": "GetAllDataFromRedisByKey",
+    "RelativePath": "api/VAS/GetAllDataFromRedisByKey",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "redisKey",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VAS_Api.Controllers.VAS",
+    "Method": "GetAllHashKeyFromRedis",
+    "RelativePath": "api/VAS/GetAllHashKeyFromRedis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VAS_Api.Controllers.VAS",
+    "Method": "GetCountAndColorDicFromRedis",
+    "RelativePath": "api/VAS/GetCountAndColorDicFromRedis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "redisKeyCount",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "redisKeyColor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

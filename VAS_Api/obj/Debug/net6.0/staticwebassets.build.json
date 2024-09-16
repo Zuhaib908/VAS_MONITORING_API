@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JTdGyyVrptiRuOPmoDdsj3FWkGM/0EJ+hzmgqKx0QT4=",
+  "Source": "VAS_Api",
+  "BasePath": "_content/VAS_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
